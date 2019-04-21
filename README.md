@@ -1,6 +1,6 @@
 # VoiceDesktop
  Made for Mac (for now)
 
-A simple electron-wrapped Google Voice app built using [Nativefier](https://github.com/jiahaog/Nativefier) and modified a modified CSS.
+A simple electron-wrapped Google Voice app built using [Nativefier](https://github.com/jiahaog/Nativefier) and a slightly modified CSS.
 
 ![VoiceDesktop Screenshot](https://github.com/dipspit/VoiceDesktop/blob/master/screenshot.png)
